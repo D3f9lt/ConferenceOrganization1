@@ -43,8 +43,5 @@
 
         <Button  Name="LoginBTN" Grid.Column="3" Grid.Row="7"
                 Content="Войти" Click="LoginBtn_Click"/>
-
-        <Button  Name="LoginBTN" Grid.Column="3" Grid.Row="7"
-                Content="Войти" Click="LoginBtn_Click"/>
     </Grid>
 </Window>
